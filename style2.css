@@ -17,3 +17,19 @@ body {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: rgb(19, 185, 226);
     }
+
+.btn {
+    display: inline-block;
+    padding: 2.7rem 7.5rem;
+    background: #f6f6f6;
+    font-size: 2rem;
+    text-decoration: none;
+    color: #398f51;
+    border-radius: 10px;
+    transition: background 0.5s;
+    margin-bottom: 4rem;
+}
+
+.btn:hover {
+    background: #dadada;
+}
