@@ -1,0 +1,19 @@
+body {
+    background: url('./images/geometric-abstract.gif');
+    background-position: 1;
+    font-family: 'Roboto', sans-serif;
+    background-size: 100%;
+}
+
+    td{
+        text-align: center;
+        font-size: 150%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: aliceblue;
+    }
+    
+    th{
+        font-size: 170%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(19, 185, 226);
+    }
